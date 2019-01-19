@@ -1,5 +1,13 @@
 # 博客推荐
 
+### 2019.01.19
+
+[基于Vue的任务节点图绘制插件（vue-task-node）](https://segmentfault.com/a/1190000017926238)
+
+[WebSocket 协议 1~4 节](https://juejin.im/post/5c3ff78451882524a23f2d9a)
+
+[webpack4系列教程（九）：开发环境和生产环境](https://segmentfault.com/a/1190000017933471)
+
 ### 2019.01.10
 
 [2019 年的 JavaScript 新特性学习指南 | 掘金年度征文](https://juejin.im/post/5c346fe7f265da611510f823)
