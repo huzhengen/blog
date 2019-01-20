@@ -1,5 +1,21 @@
 # 博客推荐
 
+### 2019.01.20
+
+[大前端的下一站何去何从？](https://www.infoq.cn/article/9*CZfjFghPVqZJlc7ScM)
+
+[提高 JavaScript 开发效率的高级 VSCode 扩展之二！](https://segmentfault.com/a/1190000017935676)
+
+[使用css时，可能会出错的两个地方](https://segmentfault.com/a/1190000017939779)
+
+[Git 学习笔记整理](https://segmentfault.com/a/1190000017941479)
+
+[javascript异步中的回调](https://segmentfault.com/a/1190000017935821)
+
+[手把手搭建nginx服务器，部署前端代码](https://segmentfault.com/a/1190000017940311)
+
+[GIT提交洁癖指南](https://www.jianshu.com/p/d3a2634ee1ec)
+
 ### 2019.01.19
 
 [基于Vue的任务节点图绘制插件（vue-task-node）](https://segmentfault.com/a/1190000017926238)
