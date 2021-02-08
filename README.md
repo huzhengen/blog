@@ -2,9 +2,9 @@
 
 ### 2021.02.08
 
-[deno文档](https://github.com/denocn/deno_docs)
+[deno 文档](https://github.com/denocn/deno_docs)
 
-[vite中文文档](https://github.com/vitejs/docs-cn)
+[vite 中文文档](https://github.com/vitejs/docs-cn)
 
 <hr>
 
